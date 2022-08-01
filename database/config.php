@@ -12,6 +12,6 @@
 
 $host       = 'serveurdb.mysql.database.azure.com';
 $username   = 'nourrad';
-$password   = 'password';
+$password   = 'fyQCkn7p';
 $db_name     = 'simpledb';
 $sslcert    = "ssl/DigiCertGlobalRootCA.crt.pem";
