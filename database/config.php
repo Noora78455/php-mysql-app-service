@@ -10,8 +10,8 @@
 
 
 
-$host       = 'databasefordemo.mysql.database.azure.com';
+$host       = 'serveurdb.mysql.database.azure.com';
 $username   = 'nourrad';
 $password   = 'password';
-$db_name     = 'sampledb';
+$db_name     = 'simpledb';
 $sslcert    = "ssl/DigiCertGlobalRootCA.crt.pem";
